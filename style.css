@@ -1,0 +1,23 @@
+.intro {
+    color: white;
+    background-color: dimgrey;
+}
+
+.intro img{
+    height: 400px;
+    width: 300px;
+}
+
+.my_projects {
+    background-color: darkseagreen;
+    height: auto;
+}
+.my_projects .project {
+    background-color: inherit;
+}
+
+.contact {
+    color: aquamarine
+    background-color: darkseagreen;
+    height: auto;
+}
